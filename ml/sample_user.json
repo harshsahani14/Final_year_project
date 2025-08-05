@@ -1,0 +1,11 @@
+{
+  "username": "john_doe",
+  "profile_picture": "http://example.com/pic.jpg",
+  "followers": 120,
+  "following": 300,
+  "bio": "Love coding and coffee ☕",
+  "posts": [
+    "Excited to start my new project!",
+    "Just finished a 12-hour coding session."
+  ]
+}
